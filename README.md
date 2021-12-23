@@ -1,2 +1,2 @@
 # Personal Site
-[Visit here](andreasavgou.github.io)
+[Visit here](https://andreasavgou.github.io/)
